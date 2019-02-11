@@ -4,6 +4,13 @@
 
 Release highlights:
 
+# v17.13.0
+## (2019-02-11)
+
+* travis: Use the minimal machine [Robert Günzler]
+* Add cli for tagging delta images [Robert Günzler]
+* Allow tagging of image deltas on creation [Robert Günzler]
+
 # v17.12.1
 ## (2019-01-14)
 

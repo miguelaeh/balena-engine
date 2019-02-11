@@ -17,7 +17,7 @@ func init() {
 	reexec.Init() // This is required for external graphdriver tests
 }
 
-const dockerdBinary = "dockerd"
+const dockerdBinary = "balena-engine"
 
 func TestMain(m *testing.M) {
 	var err error
